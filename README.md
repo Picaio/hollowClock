@@ -29,7 +29,7 @@ El proyecto incluye dos partes principales:
 
 ## Ejemplo de Funcionamiento 📹
 
-[Ejemplo de Funcionamiento]([https://www.youtube.com/watch?v=sbsLhMg-s3c](https://youtube.com/watch?v=-8Q2Tvyy4F8))
+🎥[Video de Funcionamiento](https://youtube.com/watch?v=-8Q2Tvyy4F8)
 
 ## Contribuciones 🚀
 
